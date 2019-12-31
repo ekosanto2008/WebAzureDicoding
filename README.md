@@ -1,3 +1,16 @@
+<h3>Menjadi Azure Cloud Developer Dicoding</h3>
+
+Ini adalah syarat untuk mendapatkan Sertifikat Menjadi Azure Cloud Developer Dicoding.
+
+Jangan copy paste yaa... !
+harap dibaca modulenya agar bisa mengikuti kelas dengan baik .<br>
+Happy Coding .
+
+
+
+
+
+
 ---
 services: storage
 platforms: php
