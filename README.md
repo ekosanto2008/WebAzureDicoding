@@ -12,6 +12,12 @@ Happy Coding .
 
 ![Sertifikat](https://drive.google.com/uc?export=view&id=1xSLzSEQbe796XaiaV3V1ViQrJCbFKFrg)
 
+Tapi.. kalian harus tau terlebih dahulu dasar-dasar pemrograman web, di Dicoding tersedia kelas dasar pemrograman web.
+
+Sertifikat : Belajar Dasar Pemrograman Web
+
+![Sertifikat](https://drive.google.com/uc?export=view&id=1jUsTyE4c0LrF1LU8S5qNFAjbS0X9Mfco)
+
 
 
 
