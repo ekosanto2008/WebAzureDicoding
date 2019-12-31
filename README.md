@@ -6,7 +6,11 @@ Jangan copy paste yaa... !
 harap dibaca modulenya agar bisa mengikuti kelas dengan baik .<br>
 Happy Coding .
 
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/NC5p2FPY-ho/hqdefault.jpg)](https://www.youtube.com/watch?v=NC5p2FPY-ho)
 
+![Sertifikat](https://drive.google.com/uc?export=view&id=1UOaySBtbWpIlYM6110o36LWfW5rdr3iJ)
+
+![Sertifikat](https://drive.google.com/uc?export=view&id=1xSLzSEQbe796XaiaV3V1ViQrJCbFKFrg)
 
 
 
